@@ -30,5 +30,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=padrewin&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me here
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ColdDevelopment) 
+  ## 💰 You can sponsor me here
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/padrewin)
