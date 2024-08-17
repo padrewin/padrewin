@@ -1,4 +1,7 @@
-![ColdDev](https://imgur.com/9J5FHtB.png)
+![ColdDev](https://imgur.com/9J5FHtB.png)<br>
+  ## 💰 You can sponsor me here
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/padrewin)<br>
+![GitHub Sponsors](https://img.shields.io/github/sponsors/padrewin?color=799aca)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.colddev.dev)
 
@@ -29,6 +32,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=padrewin&icon=0&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can sponsor me here
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/padrewin)
