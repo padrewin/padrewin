@@ -1,4 +1,4 @@
-![ColdDev](https://imgur.com/9J5FHtB.png)<br>
+![ColdDev](https://imgur.com/AoPlEGq.png)<br>
   ## 💰 You can sponsor me here
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/padrewin)<br>
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/padrewin?color=799aca)
