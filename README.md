@@ -16,8 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padrewin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
-<p align="right">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=padrewin&label=Profile%20Views&color=6&icon=7&pretty=true" />
+<p align="center">
+  <a href="https://github.com/padrewin">
+    <img src="https://github.com/user-attachments/assets/e75183e6-564b-43df-8d4c-9c0d041f6355" width="100" height="100" />
+  </a>
+</p>
 
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
