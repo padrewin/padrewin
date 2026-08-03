@@ -6,15 +6,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=padrewin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=padrewin&theme=transparent&hide_border=true)<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padrewin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-</div>
 <br>
-<br>
-<p align="center">
-  <a href="https://github.com/padrewin">
-    <img src="https://github.com/user-attachments/assets/e75183e6-564b-43df-8d4c-9c0d041f6355" width="100" height="100" />
-  </a>
-</p>
 
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
